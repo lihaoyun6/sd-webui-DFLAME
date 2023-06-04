@@ -1,4 +1,4 @@
-# DFLAME (Don't F**king Look At Me)
+# DFLAME (Don't F**king Look At ME)
 [[中文版]](./README_zh.md)  
 Hide/show live preview and result gallery with one-click to fool those annoying prying eyes
 

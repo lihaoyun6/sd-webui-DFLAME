@@ -1,4 +1,4 @@
-# DFLAME (Don't F**king Look At Me)
+# DFLAME (Don't F**king Look At ME)
 一键随时隐藏实时预览及输出图库, 帮助你躲避烦人的窥屏爱好者. 
 
 ## 截图
